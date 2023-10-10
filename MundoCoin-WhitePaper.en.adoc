@@ -10,7 +10,7 @@ v0.1, 2023-10-10
 :numbered:
 :stem:
 :eqnums: all
-:imagesdir: MundoCoin-WhitePaper-files
+:imagesdir: MundoCoin-WhitePaper-files.en
 
 image::MundoCoin-RoundLogo.png[align=center]
 
