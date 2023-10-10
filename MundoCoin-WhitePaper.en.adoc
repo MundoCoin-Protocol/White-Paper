@@ -1,0 +1,679 @@
+= *MUNDOCOIN*
+:doctype: article
+:encoding: utf-8
+:lang: en
+:toc: left
+:toclevels: 3
+:numbered:
+:stem:
+:eqnums: all
+:imagesdir: MundoCoinEN_files
+
+image::logo1.png[align=center]
+
+[underline]#Building a secure, fast, community-engaged cryptocurrency ecosystem#
+
+[preface]
+== Introductory
+
+
+*MundoCoin, connect the world, share the future!*
+
+We are committed to promoting sustainable development and environmentally friendly economic models on a global scale. By leading the way in advanced blockchain technology and smart contracts, we provide our users with secure, efficient and transparent transactions and financial services to help them achieve personal and business success.
+
+Together with our partners around the world, we have built a robust and reliable ecosystem that brings unlimited opportunities and possibilities to users around the world.MundoCoin's decentralised architecture puts power and control back into the hands of users, allowing everyone to realise their potential for wealth growth and growth value in the digital economy.
+
+In the world of MundoCoin, innovation and technology are the drivers and sustainability is the credo. We firmly believe that by working together and cooperating, we will be able to create a more prosperous, sustainable and equal world.
+
+
+== Introduction
+
+=== Development of cryptocurrencies
+
+With the development of blockchain and cryptocurrencies, digital currencies have become an important part of the modern financial system. However, current cryptocurrencies still face a number of challenges, including issues with security, scalability, and user experience.MundoCoin's goal is to create a secure, efficient, and user-friendly digital currency that provides users and businesses with convenient payment and transaction solutions.
+
+=== What is MundoCoin?
+
+MundoCoin is an open source digital currency project that uses blockchain technology to enable a fast, secure and scalable trading experience. The aim is to create a cryptocurrency ecosystem that is secure, fast and with high community engagement.
+
+MundoCoin's goal is to provide users with a fast, convenient and cost-effective solution for trading and managing digital assets. It will make full use of blockchain technology and distributed ledgers to ensure the security and anonymity of transactions, and improve the speed of transactions and the scalability of the network through rational design and optimisation.
+
+MundoCoin's vision is to become one of the world's leading digital currencies, used in a wide variety of scenarios, including commercial transactions, asset management and public services.
+To realise this vision, MundoCoin is committed to providing the following features and benefits:
+
+- Security: Based on advanced cryptographic algorithms, it provides users with highly secure fund management and transaction protection;
+- Fast transactions: fast and reliable transaction confirmation and processing through the use of high-performance blockchain technology;
+- Community Involvement: Build an active and open community to participate in the decision making and development of the MundoCoin project.
+
+At the same time, we are committed to achieving more efficient transactions through the introduction of the concept of master nodes and mini-nodes, and to safeguarding the security of user assets through a modular design and a secure network.
+We encourage community members to actively participate in community projects to promote MundoCoin.
+
+
+== Technical overview
+
+=== Blockchain technology foundation:
+
+MundoCoin is based on distributed ledger technology, which enables the confirmation and recording of transactions through a blockchain network. The blockchain network consists of multiple nodes, each of which keeps a complete copy of the ledger. Transactions are packaged into blocks and linked together in chronological order to form a tamper-proof chain. The consistency of the ledger by the nodes in the network is ensured through a consensus mechanism.
+
+=== Master and mini-nodes:
+
+MundoCoin uses a master node and mini-node architecture. The master node is responsible for maintaining the security and stability of the network and handling the packing of transactions and blocks. Mini-nodes are ordinary nodes used to participate in consensus and verify the legitimacy of transactions. This division of labour architecture improves the processing power and scalability of the network.
+
+==== Overview of master nodes
+
+The master node is an important node in the MundoCoin network, which has the function of maintaining the stability and security of the blockchain. The master node performs tasks such as transaction verification, blockchain synchronisation, network integration, consensus algorithms and data storage, providing support for the entire network and ensuring its normal operation.
+
+==== Mini Node Overview
+
+In order to provide a convenient digital asset management and payment solution, MundoCoin will develop the Mini Node application. Users can easily conduct secure digital asset transactions and management on the mini-node and participate in the MundoCoin ecosystem anytime, anywhere.
+Mini Node will support cryptographic security and user privacy protection mechanisms to ensure that users' digital assets are fully protected. Through the use of Mini Node, users can enjoy a safe, convenient and fast digital asset trading experience.
+The Mini Node operates as a lightweight node that runs on mobile devices, enabling users to transact and participate in network consensus anytime, anywhere. Mini Node uses a simplified authentication process that balances performance and security.
+
+=== Advantages of master and mini-nodes
+
+The introduction of master nodes and mini-nodes is designed to accelerate transaction validation speed and overall network efficiency. The master node ensures the efficiency and accuracy of transaction validation by providing high-performance computing power and storage resources, while the mini-nodes increase the coverage of the network and improve the network availability through a distributed approach.
+
+=== Modular design architecture:
+
+MundoCoin adopts a modular design, dividing system functions and components into different modules for easy expansion and upgrading. The modular design helps improve development efficiency and system maintainability. At the same time, MundoCoin provides open APIs and interfaces for developers to integrate and customise their applications.
+
+
+== Security network
+
+=== Modular design
+
+MundoCoin adopts a modular design, dividing the core functions into several independent modules, making the system easier to expand and maintain. Different modules are independent of each other and can be developed and updated independently, improving the flexibility of the system.
+
+The modular design will facilitate the participation of more developers and innovators in the MundoCoin ecosystem, working together to drive growth and innovation in the project. We encourage developers to use our development tools and APIs to build applications more quickly and flexibly.
+
+=== Security networks
+
+In order to safeguard users' assets, MundoCoin has built a strong security network. The security network includes a variety of mechanisms, such as distributed ledgers, encryption technology and anti-attack measures. By using these mechanisms together, MundoCoin is able to effectively prevent risks such as fraud, tampering and double payments.
+
+==== Cryptographic algorithms and encryption protocols
+
+MundoCoin values the security and privacy of its users and employs advanced cryptographic algorithms and encryption protocols to safeguard the security of money transactions.
+[sidebar]
+.Wallet Security
+--
+MundoCoin uses asymmetric cryptographic algorithms to generate public-private key pairs for wallets. The private key is kept by the user in a secure environment and is used to sign transactions and authorise fund transfers. The public key is used to receive payment of funds and can be shared publicly with others. This asymmetric encryption is designed to ensure that only the user with the private key can control and use the funds in the wallet.
+--
+[sidebar]
+.Transaction Security
+--
+MundoCoin transactions are verified by digital signatures. Each transaction is signed by the sender using its private key to prove that the transaction is legitimate and has not been tampered with. The receiver can use the sender's public key to verify the authenticity and integrity of the transaction. This digital signature mechanism ensures the security of the transaction against forgery and tampering.
+--
+[sidebar]
+.Transmission Security
+--
+In order to ensure secure data transmission during transactions, MundoCoin uses cryptographic protocols to encrypt and protect data transmission. Using the Secure Socket Layer protocol (SSL/TLS), all transaction data is encrypted during transmission to prevent man-in-the-middle attacks and eavesdropping.
+--
+[sidebar]
+.Preventing Double Payments
+--
+MundoCoin's blockchain network uses a decentralised consensus mechanism to prevent double payments. Double payments are situations where the same funds are used multiple times for different transactions, and MundoCoin's consensus mechanism prevents double payments by ensuring the order and uniqueness of transactions through timestamps and the chained structure of the blockchain.
+--
+
+=== Security measures:
+
+In addition to cryptographic algorithms and encryption protocols, MundoCoin has taken other security measures to protect users' funds and accounts.
+
+[sidebar]
+.Multi-signature
+--
+MundoCoin supports multi-signature technology.
+Multi-signature is a security measure that requires transactions to be co-signed by multiple related parties to ensure the security and trustworthiness of the transaction. Multi-signature technology can be used in various scenarios, such as corporate accounts, partner transactions, etc.
+--
+[sidebar]
+.Cold Storage
+--
+MundoCoin encourages Users to store a large portion of their funds in Cold Storage, a form of offline storage that greatly reduces the risk of hacking. Cold Storage private keys are kept in an offline device (e.g. a hardware wallet or paper wallet), which is connected to the network only when needed to make transactions.
+--
+[sidebar]
+.Security Audits
+--
+MundoCoin conducts regular security audits and vulnerability testing to identify and fix potential security vulnerabilities. At the same time, MundoCoin encourages community members to identify and report security issues, and offers rewards to encourage more security research and feedback.
+--
+[sidebar]
+.Confidentiality and Privacy
+--
+MundoCoin is committed to protecting the privacy and security of Users' personal information. Users' identity and transaction data will be kept strictly confidential and in compliance with applicable privacy protection laws and regulations.
+--
+[sidebar]
+.Disaster Preparedness
+--
+MundoCoin responds to unforeseen events and system failures by establishing a disaster recovery system and a backup strategy. The disaster recovery system can continue to operate in the event of a primary system failure or network outage, guaranteeing the safety of users' funds and the continuity of transactions.
+--
+
+== Quick transactions
+
+MundoCoin is designed to provide a fast, reliable and efficient trading experience. With a high performance network, fast confirmation and processing, scalability and extensibility by design, MundoCoin provides users with fast trading operations. In addition, MundoCoin will actively cooperate with exchanges and work towards real-time settlement to further improve the convenience of transactions and user experience.MundoCoin believes that by providing fast transactions, it will provide users and businesses with convenient, efficient and reliable digital currency payment and trading solutions.
+
+=== High-performance networks
+
+MundoCoin's blockchain network is designed to be a high-performance network to handle large volumes of transactions and to ensure fast confirmation and recording of transactions. By optimising network protocols and capacity planning, MundoCoin enables high throughput and low latency transaction processing.
+
+=== Rapid identification and processing
+
+MundoCoin reduces transaction confirmation time by adjusting the consensus mechanism and blockchain parameters. Fast confirmation time is the time it takes for a transaction to be confirmed from the moment it is initiated, and MundoCoin's consensus mechanism is designed to increase the efficiency of transaction processing and effectively reduce the time it takes for a transaction to be confirmed.
+
+=== Extensibility and scalability:
+
+MundoCoin's system architecture is designed to be scalable to support large-scale transactions and growth in the number of users. MundoCoin enables scalability and fast transactions through proper planning and adjustment of block size, transaction throughput and network capacity.
+
+=== Layer 2 extension solutions:
+
+In order to further increase transaction speed and scalability, MundoCoin is considering the introduction of Layer 2 scaling solutions such as Lightning Network or Sidechain technology. These solutions enable fast micropayments and transaction recording outside the blockchain, and settlement and confirmation via the main chain on the blockchain, providing higher transaction processing power and speed.
+
+=== Optimising the user experience:
+
+In addition to the speed of transaction processing, MundoCoin also focuses on providing an optimised user experience. By optimising the design of the wallet application and the trading interface, MundoCoin provides an intuitive, simple and user-friendly user interface that makes it easy for users to perform fast trading operations.
+
+=== Exchange integration:
+
+In order to further increase trading speed and liquidity, MundoCoin will actively co-operate with major exchanges to facilitate the listing of MundoCoin and the increase of trading pairs. This will make it easier for users to make quick trades and exchange funds on exchange platforms.
+
+=== Real-time billing:
+
+One of the design goals of MundoCoin is to enable real-time settlement, i.e., the transfer of funds to the recipient as soon as the transaction is completed. By employing technology for fast transaction confirmation and processing, combined with the execution capabilities of smart contracts, MundoCoin enables fast real-time settlement and provides efficient delivery of funds.
+
+
+== Community projects and community participation
+
+=== Community projects
+
+MundoCoin believes that the development and promotion of MundoCoin can be furthered through the active promotion and participation in community projects, and MundoCoin encourages community members to contribute their ideas, skills, and resources to the project and to work with MundoCoin to create a stronger and more sustainable digital currency ecosystem.
+
+MundoCoin views community participation as one of the key factors in the success of the project and encourages community members to actively participate and contribute their skills, ideas and resources. Below are the goals and plans for the MundoCoin Community Project:
+
+=== Application development and integration
+MundoCoin encourages community members to develop and integrate a variety of applications to provide a rich digital currency ecosystem. These applications can include wallet applications, payment gateways, merchant tools, asset management tools, etc. MundoCoin will support developers and provide open APIs and interfaces so they can integrate with MundoCoin's blockchain network.
+
+=== Awareness-raising and outreach programmes
+MundoCoin recognises the importance of outreach in promoting digital currencies. As such, MundoCoin will conduct outreach programmes, including hosting online seminars, producing promotional resources and educational materials, and organising community talks. These promotional activities are intended to increase public awareness and understanding of digital currencies and encourage more people to participate in the MundoCoin community.
+
+=== Business cooperation and adoption programmes
+MundoCoin promotes the adoption of digital currencies in commerce by working with merchants and service providers.MundoCoin will actively seek to build partnerships with partners and promote their acceptance of MundoCoin as a payment method. This includes working with industries such as online retailers, e-commerce platforms, hotels and travel service providers.
+
+=== Regional outreach activities
+MundoCoin will focus on promotional activities in specific regions. By working with local organisations, communities and government agencies, MundoCoin will promote the use and acceptance of MundoCoin. This includes organising local Meetup events, participating in industry fairs and hosting regional promotional events.
+
+=== Social welfare projects
+MundoCoin values social responsibility and encourages community members to participate in socially beneficial projects. By partnering with charities, non-profit organisations and social welfare organisations, MundoCoin will support and initiate projects with social impact. These projects may include donation campaigns, community service, environmental protection and educational funding.
+
+=== Developer community support
+As a developer-friendly project, MundoCoin will value the support of the developer community. This includes providing development documentation, technical support and organising developer competitions. By working closely with the developer community, MundoCoin will incentivise and support innovative application development and technical solutions.
+
+The success of MundoCoin cannot be achieved without an active and supportive community. We encourage community members to participate in the decision-making and development of the MundoCoin project and work together to promote the progress of MundoCoin. Community projects may include technology development, marketing and promotion, application ecology construction, etc., with the aim of improving MundoCoin's influence and user experience.
+
+=== Community Participation
+
+MundoCoin recognises the importance of community participation in decision-making for the project and encourages active participation and feedback from community members.
+
+1. *Call for input*: MundoCoin will periodically invite community members to express their opinions and make suggestions. On key issues, we will conduct open calls for input to ensure that community members' views are fully heard and considered.
+
+2. *Community Decision-making Voting*: For important decisions, MundoCoin will adopt a community voting method to make decisions. Each member of the community holding MundoCoin has equal voting rights, and the results of the vote will determine the direction of follow-up actions and development.
+
+3. *Community Rewards and Incentives*: MundoCoin will encourage community participation and contributions through rewards and incentives. This includes rewards for developers, promoters and community leaders who contribute to the project.
+
+4. *Openness and Transparency*: MundoCoin is committed to maintaining open and transparent communication. Community members will receive regular updates and progress reports on MundoCoin, as well as information on the roadmap and decisions made, and MundoCoin's decision-making process will be as open and reviewable as possible.
+
+
+
+== Objectives and planning
+
+MundoCoin's goal is to become one of the leading digital currencies in the world and to be used in a wide range of different fields and scenarios.
+
+The development plan is as follows:
+
+*   Market Research and Positioning:
+-   Conduct market research to understand the needs and competitive environment of the digital currency market.
+-   Determine MundoCoin's positioning and target audience.
+-   Establish a marketing strategy and develop a promotion plan.
+
+*   Technology Development and Infrastructure:
+-   Design and develop MundoCoin's blockchain infrastructure, including the main and test networks.
+-   Enhance the performance, scalability and security of MundoCoin.
+-   Develop MundoCoin wallet and trading platform to provide convenient user experience.
+
+*   Ecosystem Building:
+-   Build a strong developer community with developer tools and documentation support.
+-   Attract companies and partners to join the MundoCoin ecosystem to promote application development and implementation.
+-   Develop MundoCoin's cross-chain technology and ecological platform through cooperation with other projects.
+
+*   User Adoption and Promotion:
+-   Implement marketing strategies to increase the visibility and recognition of MundoCoin.
+-   Work with exchanges to ensure MundoCoin is listed and traded on major exchanges.
+-   Promote user adoption and use of MundoCoin by offering benefits and incentives.
+
+*   Community Governance and Development:
+-   Establish community governance mechanisms to involve the community internally in decision-making and project development.
+-   Promote the contribution and participation of community members and incentivise community development through events, competitions and other activities.
+-   Organise regular online and offline activities to strengthen community cohesion and communication.
+
+*   Continuous improvement and innovation:
+-   Continuously carry out technological innovation and research and development to improve the functions and performance of MundoCoin.
+-   Pay attention to market dynamics and user feedback, and make timely product improvement and optimisation.
+-   Explore and apply new blockchain technologies and application scenarios to maintain competitive advantages.
+
+The project team will achieve sustainable development, expand the user base and promote the construction of the ecosystem. During the implementation process, the project team will pay close attention to changes in market demand, and adjust and optimise the plan in a timely manner to ensure that MundoCoin is able to adapt to the ever-changing market environment.
+
+=== Objective
+
+Promotion and popularisation: MundoCoin's primary goal is to promote and popularise the concept and use of digital currencies. Through educational outreach and promotional activities, MundoCoin will increase public awareness and understanding of digital currencies and promote their widespread adoption in everyday life and business.
+
+Providing Convenient Payment Solutions: MundoCoin aims to be a convenient, secure and efficient payment solution.MundoCoin will continue to improve its blockchain network and infrastructure to ensure that users can perform payment and transaction operations quickly and stably to meet their payment needs.
+
+Expanding Business Collaboration: MundoCoin will actively work with merchants and service providers to drive the adoption of digital currencies in the business sector.MundoCoin will enable merchants to accept MundoCoin as a payment tool and provide support and solutions so that they can conveniently accept digital currency payments.
+
+Providing Secure Funds Management and Protection: MundoCoin values the security and privacy of its users' funds and will continue to improve and strengthen its security network and measures, using advanced cryptographic algorithms and security technologies to ensure maximum protection of users' funds and transaction data.
+
+Expanding the Application Ecosystem: As an open and scalable digital currency project, MundoCoin focuses on expanding its application ecosystem.MundoCoin encourages developers and entrepreneurs to develop innovative applications and solutions, and provides support and resources to help them build MundoCoin-based applications and services.
+
+Community Development and Involvement: MundoCoin views the community as one of the key pillars of the Project's success, and will encourage community members to actively participate in and contribute to the Project, including in the areas of development, outreach, and education, etc. MundoCoin will build an active, open, and inclusive community, encouraging participation and contributions from community members through rewards and incentives.
+
+Continuous Innovation and Technological Advancement: MundoCoin will be committed to continuous innovation and technological advancement in order to maintain its competitiveness and leadership in the digital currency space, and MundoCoin will dedicate resources and teams to continuously improve its technological architecture and functionality in order to meet the growing market demand and user expectations.
+
+=== Development of a road map
+
+MundoCoin's development programme includes a series of milestones and goals. Over the next few phases, MundoCoin will focus on technical improvements, upgrades and advertising and promotion. Through continuous enhancement and innovation, MundoCoin will endeavour to become a truly influential digital currency on a global scale. In order to further promote the development of MundoCoin, strategic cooperation with other organisations and businesses will be sought. By sharing resources and knowledge, MundoCoin will be able to better meet user needs and expand its reach.
+
+MundoCoin has confidently set out the following development roadmap to realise the project's long-term goals and vision.
+
+*Phase I: Initial phase*
+
+- This phase will focus on technology development and testing. We will refine the core technical architecture of MundoCoin, including the design and development of the master node and mini-nodes.
+- We will conduct comprehensive functional tests and security audits to ensure the stability and security of the system.
+- At the same time, we will focus on promoting MundoCoin's philosophy and values to attract and build a strong community.
+
+*Stage II: Expansion and adoption*
+
+- During this phase, we will actively promote the deployment and use of master nodes and mini-nodes to scale the MundoCoin ecosystem.
+- We will work with merchants and partners to drive the popularity and global adoption of digital currency payments.
+- At the same time, we will carry out marketing and promotional activities to increase the visibility and impact of MundoCoin.
+
+*Phase III: Ecosystem building and outreach*
+
+- We will work with other blockchain projects and organisations to build ecosystem partnerships to advance the cause of sustainable development and environmental protection.
+- We will support the development of community projects and encourage developers to create and share innovative applications and solutions.
+- At the same time, we will continue to improve and refine the core features of MundoCoin to provide a better user experience and functional support.
+
+*Phase IV: community self-governance and sustainable development*
+
+- We will establish an open, transparent and democratic community governance mechanism that encourages the participation of community members in decision-making and project development.
+- We will promote self-governance and sustainable development of the community and ensure that the MundoCoin ecosystem is able to operate independently and grow sustainably.
+- At the same time, we will continue to promote sustainable development and social responsibility initiatives to contribute to society and the environment.
+
+We will adjust and refine our development plan and roadmap in accordance with market and technological developments to ensure the long-term sustainable development of MundoCoin.
+
+MundoCoin firmly believes that by implementing these goals and plans, it will provide users and businesses with a reliable, secure and innovative digital currency solution.MundoCoin is committed to working together with members of the community to drive the MundoCoin project forward and to achieve its goals while continuing to create more value and opportunities.
+
+
+== Risks and challenges
+
+There are a number of risks and challenges that we will face in the development of MundoCoin. Here are some possible problems and strategies to deal with them:
+
+1. *Technology risk*: Blockchain technology is a constantly developing and evolving field, and we need to keep an eye on new technologies and adjust our technology architecture in time to cope with future needs and challenges. At the same time, we will seek co-operation with professional technical teams and partners in order to jointly solve technical difficulties.
+
+2. *Security risks*: Security is an important issue that any cryptocurrency project must focus on. We will implement a series of security measures, including the use of advanced cryptographic algorithms and multiple authentication mechanisms, to ensure the security of users' assets and personal information. We will also conduct regular security audits and vulnerability testing to identify and fix potential security vulnerabilities in a timely manner.
+
+3. *Legal and Regulatory Risks*: As the digital currency industry continues to evolve, so do the regulatory policies of governments and regulators on cryptocurrencies. We will maintain close co-operation with regulators to ensure that our projects comply with local laws and regulations. We will actively participate in the process of formulating regulatory policies and establish good communication channels with governments and regulators.
+
+4. *Market competition risk*: The digital currency market is highly competitive, and we will actively study market trends and competitor dynamics to continuously improve our products and services to provide better user experience and added value. We will strengthen our marketing and branding to increase our market share and user base.
+
+5. *Community Building Risk*: Building and developing a strong community is critical to the success of MundoCoin. We will focus on interacting and communicating with users, coin holders and developers, and encourage and support community members to participate in the development and decision-making of the project. We will provide transparent community governance mechanisms to ensure the autonomy and sustainability of the community.
+
+6. *Adoption and acceptance risk*: Adoption and acceptance of digital currencies is a key factor. We will work with merchants and partners to drive adoption and acceptance of MundoCoin in real-world scenarios. We will conduct educational and promotional activities to raise awareness and understanding of digital currencies among users.
+
+We acknowledge that we may encounter some difficulties in the face of these risks and challenges. However, we believe that through continuous improvement and flexibility, we can overcome these challenges and bring better products and services to our users. We will maintain transparent and positive communication and grow and develop together with our community.
+
+== Summaries
+
+MundoCoin is committed to building a cryptocurrency ecosystem that is secure, fast and with high community participation. By introducing the concept of master nodes and mini-nodes, it optimises transaction speed and network efficiency; it adopts modular design and security network to ensure the safety of user assets; and it promotes community projects and encourages community participation to achieve community building and governance. We believe that with the joint efforts of community members, MundoCoin will usher in a better future.
+
+
+=== Coin Statistics
+
+*Name*: MundoCoin
+
+*Symbol*: MNO
+
+*Genesis Block*: TBD
+
+*Consensus:* Proof of Cooperation (POC)
+
+*Total supply*: 21,000,000 MNO
+
+*Initial Block Bonus*: 50 MNO
+
+*Block Bonus*: Starting with 50 MNOs, halved every 210,000 blocks (~4 years) up to 10 times (~40 years).
+Block Reward 35% is allocated by Master-Node, 60% by Mini-Node, 4% goes to the project fund, and 1% is used for incentives to developers.
+
+*Transaction speed*: up to 10,000 transactions per second
+
+*Transaction costs*: 0.001 % MNO
+
+*Block time*: 600 seconds
+
+image::01.png[align=center]
+
+
+=== Node Voucher
+
+*Name*: MundoCoinNode
+
+*Symbol*: MCN
+
+*Total supply*: Approximately 120 MCN new per year
+
+image::02.png[align=center]
+
+* *What are node vouchers*
+
+- The MundoCoinNode (MCN) is the credentials to run the master node and is the ID of the master node.
+- The MundoCoin Genesis block will generate 120 MCNs, after which a new MCN will be generated every 438 blocks (about 120 MCNs generated per year), and the newly generated MCNs will go directly into the project fund pool, which can be taken by any member of the community through the auction system.
+- The first 120 MCNs generated by the Genesis Block will be distributed to community members through tasks, events and auctions.
+
+* *Why Introduce Nodal Credentials*
+
+- MCN is used for initial node screening, preventing the establishment of malicious nodes and blocking 51% attacks, and is the first line of defence for MundoCoin network security.
+
+- MCN acts as the identity ID of the node with uniqueness; once the node is found to have cheating and malicious attacks, the MCN with malicious behaviour will be monitored to prevent the malicious node from changing IP to attack again after its attack is intercepted, which is the second line of defence for MundoCoin network security.
+
+- When a node's malicious behaviour stops, the monitored MCN needs enough time to recover its credit, and the node can only continue to receive rewards when its credit is restored, and if the MCN has multiple malicious behaviours, it will be permanently banned.
+
+
+
+
+* *Node IDs have important functions and benefits in distributed systems and blockchain networks*
+
+1. Uniqueness: node ID is the unique identification of each node in the network. Through node ID, different nodes can be distinguished and identified. This ensures that there are no duplicate nodes in the network and avoids conflicts and confusion.
+
+2. Routing and communication: node ID plays the role of routing and communication in the network. Other nodes can use node IDs to locate specific nodes for messaging, interaction and data transfer. Node IDs can help to establish reliable communication connections and ensure effective interaction between nodes.
+
+3. Data Consistency: In distributed systems, node IDs can be used to achieve data consistency and replication. By assigning unique IDs to nodes, it can be ensured that data copies are correctly synchronised and updated between different nodes, thus maintaining data consistency throughout the system.
+
+4. Load Balancing: Node IDs can be used to implement load balancing and resource allocation. By optimising and allocating node IDs, loads and tasks can be evenly distributed across the system, improving system performance and scalability.
+
+5. Security and Privilege Management: Node IDs can be used to implement security and privilege management. By verifying and authorising node IDs, the access rights and operating privileges of specific nodes can be restricted to improve the security and protection of the system.
+
+These are necessary to build a powerful, efficient and reliable distributed system.
+
+
+
+
+
+=== Master-Node and Mini-Node
+
+* *Master-Node*
+
+image::1.png[]
+
+The main function of the master node is to support and maintain the security of the network, confirm the reliability and functionality of the transactions.
+[sidebar]
+.Transaction Confirmation and Fast Processing
+--
+The master node has higher computing power and processing speed to quickly process transactions and confirm their validity. This helps to reduce transaction latency and increase transaction throughput across the network.
+--
+[sidebar]
+.Data storage and transmission
+--
+Master nodes are responsible for storing and transmitting data on the blockchain, including transaction records and block information. They have greater storage space and bandwidth in the network to support data storage and transmission more efficiently.
+--
+[sidebar]
+.Network security and defence
+--
+Master nodes have higher security and defence capabilities that help protect against various network attacks and fraud. They monitor the security of the network, detect potential malicious behaviours and take appropriate defensive measures.
+--
+[sidebar]
+.Community Engagement and Governance
+--
+master nodes are important participants in the blockchain ecosystem, they can provide input and vote for the rules and governance of the network. Node holders can participate in the decision-making process and contribute to the development and improvement of the blockchain project.
+--
+
+* *Mini-Node*
+
+image::3.png[]
+
+Mini-Node are an integral part of the blockchain network, they help to guarantee the security, reliability and decentralisation of the network and provide users with a transparent, secure and efficient transaction environment.
+[sidebar]
+.Transaction Verification and Validation
+--
+Mini-Nodes are responsible for verifying and validating transactions in the blockchain network. They verify the validity, integrity and compliance of transactions to ensure that only legitimate and valid transactions are added to the blockchain, enhancing the security and reliability of the network.
+--
+[sidebar]
+.Network security and decentralisation
+--
+The distributed architecture of Mini nodes contributes to the decentralisation of the network and reduces the risk of a single point of failure. They work together with other nodes to participate in the security and stability of the network and prevent potential attacks and fraud.
+--
+[sidebar]
+.Blockchain Synchronisation and Consensus
+--
+Mini nodes communicate by communicating with other nodes. They participate in the consensus algorithm, decide with other nodes on the next block to be generated and ensure the consistency of the blockchain. The consensus activity of the nodes helps to maintain the trustworthiness and correctness of the entire network.
+--
+[sidebar]
+.Data Transmission
+--
+Mini nodes play the role of data transmission in the blockchain network. They transmit transaction records and block data on the blockchain, providing users with trusted access to transaction history and blockchain information.
+--
+[sidebar]
+.Community Participation and Governance
+--
+Mini nodes are important participants in the blockchain ecosystem who can provide input and vote for the rules and governance of the network. Node holders can participate in the decision-making process and provide contributions to the development and improvement of the blockchain project.
+--
+
+=== Fast Transactions
+
+MundoCoin adopts the consensus mechanism of proof of co-operation, which reduces the time of block confirmation, and every transaction can be done in real time.
+
+Basic workflow:
+
+image::03.png[align=center]
+
+When Wallet A sends an MNO transfer to Wallet B, Wallet B will send this record to a node in the MundoCoin network at the same time as it receives the MNO, and the node will share the received record in real time with other nodes, and archive all the records when the next block is generated. (Any behaviour generated throughout the process will be recorded!)
+
+
+==== MundoCoin Payment Principle
+
+[sidebar]
+.Key Generation
+--
+When A pays MNO to B, A will first send a request to Node, which will generate a pair of RSA keys, including public and private keys, and Node will send the public key to A.
+--
+[sidebar]
+.Order encryption
+--
+A's payment request will generate order information, which is encrypted using the Node's public key to ensure that the order information is not easily stolen or tampered with during transmission.
+--
+[sidebar]
+.Data transmission and verification
+--
+A sends the encrypted order information to the Node. Since the order information is encrypted with the Node's public key, only the Node's private key can decrypt the original order information, and the Node will verify that the order information sent by A is complete and has not been tampered with.
+--
+[sidebar]
+.Signature Generation
+--
+Node digitally signs the order information with its own private key and generates signed data. The signature process uses an algorithm-specific digital signature mechanism to verify the authenticity and integrity of the order information.
+--
+[sidebar]
+.Signature Verification
+--
+A receives the order information and signature data from Node, and then uses Node's public key to verify the signature data. If the verification passes, it can be confirmed that the order data comes from Node and the order information has not been tampered with.
+--
+[sidebar]
+.Payment Completion
+--
+After the validation passes, A will pay MNO to B successfully.
+--
+
+image::04.png[align=center]
+
+.Regarding the payment principle of MundoCoin, I'll illustrate it with an example！
+For example, if A wants to transfer 100MNO to B, B needs to submit the information to the Notary Office (node) first, then the Notary Office (node) will review the information, and if the review passes, it will arrange for the Notary Public (MiniNode) to witness the transaction and validate the balance, and the Notary Public (MiniNode) confirms that B receives the 100MNO, and then the Notary Public (MiniNode) will record the result in the block information.
+
+[sidebar]
+.RSA Algorithm
+--
+The RSA algorithm is an asymmetric encryption algorithm that was co-proposed in 1977 by three computer scientists, Rivest, Shamir, and Adleman, and is named after their last names.
+
+The security of the RSA algorithm is based on the difficulty of the prime factorisation problem. As long as the large prime numbers are kept private, it is very difficult for others to break the ciphertext to obtain the plaintext.The RSA algorithm is widely used in the fields of encrypted communication, digital signatures and authentication. It is still one of the most commonly used asymmetric encryption algorithms due to its security and reliability.
+--
+[sidebar]
+.RSA algorithm principle
+--
+The RSA (Rivest-Shamir-Adleman) algorithm is an asymmetric encryption algorithm that includes both public and private keys. Its principle is based on the mathematical property in number theory that multiplication of two large prime numbers is difficult to decompose.
+
+Key generation:
+
+a. Choose two large prime numbers p and q at random.
+
+b. Compute stem:[N = p * q].
+
+c. Compute the Euler function stem:[\varphi(N) = (p-1) * (q-1)].
+
+d. Choose an integer stem:[e] satisfying stem:[1 < e < \varphi(N)] and stem:[e] and stem:[\varphi(N)] are mutually prime.
+
+e. Compute the multiplicative inverse stem:[d] of stem:[e % \varphi(N)] such that stem:[(e * d) % \varphi(N) = 1].
+
+f. The public key is stem:[(e, N)] and the private key is stem:[(d, N)].
+
+Encryption:
+
+a. Convert the plaintext stem:[M] to an integer stem:[m], satisfying stem:[0 <= m < N].
+
+b. Encrypt to get ciphertext stem:[C, C = (m^e) % N].
+
+Decryption:
+
+a. Decrypt the ciphertext stem:[C] using the private key stem:[(d, N)] to get the plaintext stem:[m], stem:[m = (C^d) % N].
+--
+.ECC Algorithm
+Elliptic Curve Cryptography: ECC is a very strong and efficient public key cryptography algorithm. It is a public key cryptography algorithm based on the mathematics of elliptic curves. It exploits the difficulty of the discrete logarithm problem on elliptic curves to provide security for encryption and authentication.
+
+.Here is the general working of ECC
+[sidebar]
+.Elliptic Curve
+--
+ECC uses points on an elliptic curve as the basis of the encryption algorithm. An elliptic curve is defined as the set of points that satisfy a particular equation, which typically uses operations over a finite field. On elliptic curves, operations such as addition and multiplication of points can be performed.
+--
+[sidebar]
+.Public and Private Key Generation
+--
+ECC uses a pair of keys, including a private key and a public key. The private key is kept by the user, while the public key can be shared publicly. The private key is a random number and the public key is generated by the operation of the private key and points on an elliptic curve.
+--
+[sidebar]
+.KEY EXCHANGE
+--
+ECC can be used in key exchange protocols where two communicating parties can generate a shared secret key by pointwise operations on elliptic curves. This process is called ECDH (Elliptic Curve Diffie-Hellman) protocol.
+--
+[sidebar]
+.Digital Signature
+--
+ECC can also be used to generate and verify digital signatures. The sender signs the data using the private key and the receiver uses the sender's public key to verify the validity of the signature to ensure data integrity and authentication.
+
+ECC can use shorter key lengths for the same level of security, thus providing higher computational efficiency and a smaller resource footprint. This makes ECC more practical in resource-constrained environments (e.g., mobile devices, IoT devices, etc.).
+--
+
+.Common formulas for calculations in ECC:
+[sidebar]
+--
+Elliptic curve equation: an elliptic curve can be defined by an equation, usually written:
+
+stem:[y^2 = x^3 + ax + b]
+
+where a and b are parameters on the curve, which can be negative, integers in the domain range.
+
+Addition of points : Addition of two points stem:[P(x1, y1)] and stem:[Q(x2, y2)] on an elliptic curve is defined as follows:
+
+If stem:[P] and stem:[Q] are the same point (i.e., stem:[P = Q]), multiplication of points is performed.
+
+If stem:[P] and stem:[Q] are different points, the result of stem:[P + Q] is computed according to the following equation:
+
+stem:[\lambda = (y2 - y1) / (x2 - x1)]
+
+stem:[x3 = \lambda^2 - x1 - x2]
+
+stem:[y3 = \lambda(x1 - x3) - y]
+
+The result is stem:[R(x3, y3)], which is another point on the curve.
+
+Multiplication of points : The multiplication of a point stem:[P(x, y)] on an elliptic curve is defined as follows:
+
+If n is a positive integer, then nP is equal to adding P to itself n times, i.e. stem:[nP = P + P + ... + P (n times)].
+--
+
+.Secure Socket Layer Protocol (SSL/TLS)
+[sidebar]
+--
+Secure Sockets Layer (SSL) and Transport Layer Security (TLS) are a pair of encrypted communication protocols widely used to secure network communications.
+
+The main goal of SSL/TLS is to protect the confidentiality, integrity and authentication of data through encrypted communication. They establish a secure connection between a Web browser and a server, preventing third parties from eavesdropping on, tampering with, or impersonating the communication.
+--
+
+.SSL/TLS works as follows
+[sidebar]
+--
+Handshake Protocol: At the beginning of the communication, a handshake protocol is executed between the client and the server. During this process, they exchange encrypted information, negotiate the encryption algorithm and key to be used, and perform authentication.
+
+Encrypted Communication: Once the handshake process is complete, communication between the client and the server encrypts the data using the negotiated encryption algorithm. This way, even if someone intercepts the communication, they will not be able to decipher its contents.
+
+Digital certificates: For authentication purposes, the server provides a digital certificate that contains information about the server and a public key. The client verifies the validity of the certificate and uses the public key in the certificate to encrypt a randomly generated key for symmetric encryption during the session.
+
+Symmetric Encryption and Message Authentication: During a TLS session, a symmetric encryption algorithm is used between the client and server to encrypt and decrypt data. Message Authentication Code (MAC) is also used to ensure the integrity of the message. Commonly used symmetric encryption algorithms include AES (Advanced Encryption Standard).
+
+Terminate Connection: Once the communication is complete, the client and server can terminate the connection and release the associated resources.
+--
+
+=== Proof of Cooperation (PoC)
+
+Proof of Cooperation (PoC) is a consensus mechanism for verifying and confirming transactions and generating new blocks in a blockchain network.
+[sidebar]
+--
+Unlike traditional algorithms such as Proof of Work or Proof of Stake, Proof of Cooperation emphasises cooperation and collaboration between participants to determine the generation of the next block.
+
+In Proof of Cooperation, participants prove their integrity and trustworthiness by demonstrating cooperative behaviour among themselves. It is used to confirm cooperative behaviour between participants.
+
+Unlike other consensus mechanisms (such as Proof of Work or Proof of Stake), Co-operative Proof focuses on co-operation and collaboration between participants rather than on computing power or size of shareholding.
+
+All Master-Nodes will be formed into a cluster of servers that share the responsibility of so authenticating requests, confirming requests, storing data, etc.
+--
+
+.The modus operandi of the Cooperative Certification Mechanism is as follows:
+
+.. Data storage: participants use their own computers or devices to store a portion of the data on the blockchain network. This data can include transaction records, block header information, etc.
+
+.. Data validation and processing: participants are responsible for validating and processing the stored data. They need to access and query the data to ensure its correctness and integrity.
+
+.. Block Generation: The contribution level of the participants will be used to determine the next block to be generated. Typically, participants with higher contribution levels get a better chance of generating a new block.
+
+.. Goal Setting: Participants determine a common goal or task. This could be solving a problem, completing a project or achieving a common benefit.
+
+.. Proof of Cooperative Behaviour: participants demonstrate their cooperative behaviour in reaching a common goal. This may include sharing resources, providing assistance, sharing risks, collaborating to solve problems, etc.
+
+.. Proof validation: other participants or validation nodes validate the participants' collaborative behaviour. This can be done by sharing records, exchanging information, reviewing evidence, etc.
+
+.. Reward distribution: verified participants will receive appropriate rewards or entitlements based on their cooperative behaviour.
+
+Schema：
+
+image::05.png[align=center]
+
+The cooperative proof mechanism emphasises active cooperation and resource sharing among participants in the network to ensure the security and reliability of the network. Compared to other consensus algorithms, the advantage of cooperative proof is that it emphasises co-operation and collaboration, encourages mutual assistance and trust among participants, it promotes healthy competition among participants rather than competitive waste of resources, it reduces energy consumption and hardware equipment requirements, and it promotes the common development of the community.
+
+=== DNS Nodes
+A node that is running for the first time will contact the node providing DNS services to get a list of available nodes and then continue to try to connect to those nodes and participate in the network.
+After that it will disconnect from the node providing DNS services, as it has already obtained all the information it needs from that node.
+
+* DNS node information will be hardcoded into the software with the following names
+
+ node01.mundocoin.top
+ node02.mundocoin.top
+ etc.
+
+* The user-managed nodes will be the smart/master nodes and the main body of the network, with the aim of making the network resilient and fully decentralised.
+* These DNS nodes managed by us will have no say in blockchain processing and will not have the power to freeze.
+* They simply support the launch of the network by providing a list of non-DNS nodes connected to the network.
+
+
+
+
