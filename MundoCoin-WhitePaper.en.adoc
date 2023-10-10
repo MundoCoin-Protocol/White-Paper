@@ -1,4 +1,7 @@
 = MundoCoin White Paper
+The MundoCoin Team
+v0.1, 2023-10-10
+:description: White Paper about the MundoCoin cryptocurrency
 :doctype: article
 :encoding: utf-8
 :lang: en
