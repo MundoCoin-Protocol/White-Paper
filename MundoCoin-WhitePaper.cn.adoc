@@ -1,13 +1,13 @@
-= MundoCoin White Paper
-The MundoCoin Team
+= MundoCoin 白皮书
+MundoCoin 团队
 v0.1, 2023-10-10
-:description: White Paper about the MundoCoin cryptocurrency
+:description: 关于 MundoCoin 加密货币的白皮书
 :doctype: article
 :encoding: utf-8
-:lang: cn
+:lang: en
 :toc: left
 :toclevels: 3
-:toc-title: ToC But in Chinese
+:toc-title: 中文
 :numbered:
 :stem:
 :eqnums: all
@@ -542,29 +542,29 @@ RSA算法的安全性基于质因数分解问题的困难性。只要保持大�
 --
 RSA（Rivest-Shamir-Adleman）算法是一种非对称加密算法，包括公钥和私钥。其原理基于数论中两个大质数相乘难以分解的数学特性。
 
-Key generation:
+生成密钥
 
-a. Choose two large prime numbers p and q at random.
+随机选择两个大质数 p 和 q。
 
-b. Compute stem:[N = p * q].
+计算 N = p * q.
 
-c. Compute the Euler function stem:[\varphi(N) = (p-1) * (q-1)].
+计算欧拉函数 \varphi(N) = (p-1) * (q-1).
 
-d. Choose an integer stem:[e] satisfying stem:[1 < e < \varphi(N)] and stem:[e] and stem:[\varphi(N)] are mutually prime.
+选择一个整数 e 满足 1 < e < \varphi(N) 并且 e 和 varphi(N) 是互素数。
 
-e. Compute the multiplicative inverse stem:[d] of stem:[e % \varphi(N)] such that stem:[(e * d) % \varphi(N) = 1].
+计算 e % \varphi(N) 的乘法逆，使得 (e * d) % \varphi(N) = 1.
 
-f. The public key is stem:[(e, N)] and the private key is stem:[(d, N)].
+公钥是(e, N)，私钥是(d, N)。
 
-Encryption:
+加密：
 
-a. Convert the plaintext stem:[M] to an integer stem:[m], satisfying stem:[0 <= m < N].
+将明文 M 转换为整数 m, 满足 0 <= m < N.
 
-b. Encrypt to get ciphertext stem:[C, C = (m^e) % N].
+加密得到密文 C, C = (m^e) % N.
 
-Decryption:
+解密：
 
-a. Decrypt the ciphertext stem:[C] using the private key stem:[(d, N)] to get the plaintext stem:[m], stem:[m = (C^d) % N].
+使用私人密钥 (d, N) 对密文 C 解密，得到明文 m, m = (C^d) % N.
 --
 [sidebar]
 .ECC算法
@@ -600,29 +600,29 @@ ECC在相同的安全性水平下可以使用更短的密钥长度，从而提�
 .ECC中常见的计算公式
 [sidebar]
 --
-Elliptic curve equation: an elliptic curve can be defined by an equation, usually written:
+椭圆曲线方程：椭圆曲线可以用一个方程来定义，通常写成
 
-stem:[y^2 = x^3 + ax + b]
+y^2 = x^3 + ax + b
 
-where a and b are parameters on the curve, which can be negative, integers in the domain range.
+其中 a 和 b 是曲线上的参数，可以是域范围内的负整数。
 
-Addition of points : Addition of two points stem:[P(x1, y1)] and stem:[Q(x2, y2)] on an elliptic curve is defined as follows:
+点的相加 ： 椭圆曲线上两个点 P(x1, y1) 和 Q(x2, y2) 的加法定义如下：
 
-If stem:[P] and stem:[Q] are the same point (i.e., stem:[P = Q]), multiplication of points is performed.
+如果 P 和 Q 是同一个点（即 P = Q/$），则执行点的乘法。
 
-If stem:[P] and stem:[Q] are different points, the result of stem:[P + Q] is computed according to the following equation:
+如果 P 和 Q 是不同的点，则根据下式计算 P + Q 的结果：
 
-stem:[\lambda = (y2 - y1) / (x2 - x1)]
+lambda = (y2 - y1) / (x2 - x1)
 
-stem:[x3 = \lambda^2 - x1 - x2]
+\x3 = \lambda^2 - x1 - x2
 
-stem:[y3 = \lambda(x1 - x3) - y]
+\y3 = （x1 - x3）- y
 
-The result is stem:[R(x3, y3)], which is another point on the curve.
+结果是 R(x3,y3)，这是曲线上的另一个点。
 
-Multiplication of points : The multiplication of a point stem:[P(x, y)] on an elliptic curve is defined as follows:
+点的乘法： 椭圆曲线上点 P(x, y) 的乘法定义如下：
 
-If n is a positive integer, then nP is equal to adding P to itself n times, i.e. stem:[nP = P + P + ... + P (n times)].
+如果 n 是一个正整数，那么 nP 等于 P 与自身相加 n 次，即 nP = P + P + .... + P (n times).
 --
 
 .安全套接字层协议（SSL/TLS）
