@@ -7,7 +7,7 @@
 :numbered:
 :stem:
 :eqnums: all
-:imagesdir: MundoCoinEN_files
+:imagesdir: MundoCoin-WhitePaper-files
 
 image::logo1.png[align=center]
 
