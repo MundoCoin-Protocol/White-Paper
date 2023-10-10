@@ -1,4 +1,4 @@
-= *MUNDOCOIN*
+= MundoCoin White Paper
 :doctype: article
 :encoding: utf-8
 :lang: en
@@ -9,7 +9,7 @@
 :eqnums: all
 :imagesdir: MundoCoin-WhitePaper-files
 
-image::logo1.png[align=center]
+image::MundoCoin-RoundLogo.png[align=center]
 
 [underline]#Building a secure, fast, community-engaged cryptocurrency ecosystem#
 
