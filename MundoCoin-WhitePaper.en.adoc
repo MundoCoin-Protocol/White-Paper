@@ -17,7 +17,7 @@ image::MundoCoin-RoundLogo.png[align=center]
 [underline]#Building a secure, fast, community-engaged cryptocurrency ecosystem#
 
 [preface]
-== Introductory
+== Preface
 
 
 *MundoCoin, connect the world, share the future!*
@@ -33,7 +33,7 @@ In the world of MundoCoin, innovation and technology are the drivers and sustain
 
 === Development of cryptocurrencies
 
-With the development of blockchain and cryptocurrencies, digital currencies have become an important part of the modern financial system. However, current cryptocurrencies still face a number of challenges, including issues with security, scalability, and user experience.MundoCoin's goal is to create a secure, efficient, and user-friendly digital currency that provides users and businesses with convenient payment and transaction solutions.
+With the development of blockchain and cryptocurrencies, digital currencies have become an important part of the modern financial system. However, current cryptocurrencies still face a number of challenges, including issues with security, scalability, and user experience. MundoCoin's goal is to create a secure, efficient, and user-friendly digital currency that provides users and businesses with convenient payment and transaction solutions.
 
 === What is MundoCoin?
 
